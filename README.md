@@ -1,4 +1,4 @@
-< [Main Page](https://enginebeast.github.io/RCcar1/) < [RC car project](https://enginebeast.github.io/RCcar)
+< [Main Page](https://enginebeast.github.io/) < [RC car project](https://enginebeast.github.io/RCcar)
 
 Purpose: to understand the structure of the driving system and steering system of an RC car  
 
