@@ -1,4 +1,4 @@
-< [Main Page](https://enginebeast.github.io/) < [Arduino RC car project](https://enginebeast.github.io/RCcar)
+< [Main Page](https://enginebeast.github.io/) < [Small car project](https://enginebeast.github.io/smallcar)
 
 Purpose: to understand the structure of the driving system and steering system of an RC car  
 
